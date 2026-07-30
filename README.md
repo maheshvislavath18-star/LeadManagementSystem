@@ -215,9 +215,8 @@ Add screenshots of:
 
 Python Full Stack Developer
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/maheshvislavath18-star
 
-LinkedIn: Add your LinkedIn profile (Optional)
 
 ---
 
